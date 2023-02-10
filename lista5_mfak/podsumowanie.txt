@@ -1,0 +1,7 @@
+1. zaimplementowana metoda Verleta (30)
+2. model symulowany trójwymiarowo (50)
+3. siła grawitacji, siła spręzystości (0)
+4. model tkaniny powszechny w grach (20)
+5. fajna flaga z pacmanem animowanym w czasie rzeczywistym (20)
+
+Efekt końcowy nie jest tym co chciałem uzyskąc, w trakcie natknąłem się na wiele problemów przy implementacji wspomnianych na wykładzie zagadnień, chciałem zaimplementować inne obiekty niż zwykła tkanina plus interakcje z użytkownikiem, jednak problemy się na siebie nakładały i ciężko było do czegokolwiek konkretnego dojść w krótkim czasie, który mogłem poświęcić na rozwiązanie ich.
